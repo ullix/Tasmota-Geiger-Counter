@@ -1,5 +1,5 @@
 # Tasmota-Geiger-Counter
-Using a generic Tasmota with some Berry code as a Geiger Counter
+Using a generic Tasmota, with some Berry code, as a Geiger Counter
 
 Take an ESP32 and install a generic Tasmota (currently used version 15.2.0), Upload a piece of Tasmota-App and you have the counter and saver for Geiger data, to which you communicate solely via WiFi.   
 

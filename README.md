@@ -12,6 +12,6 @@ The Tasmota main page does show CPM (Counts per Minute) and CPS (Counts per Seco
 This Tasmota-Geiger-Counter App can be used as-is with any system, but its main purpose is to be used with the big Geiger Counter software *"GeigerLog"*. This also is Open-Source software.
 
 This repository has the Tasmota-App code 'geiger.tapp'. For the full GeigerLog code see https://sourceforge.net/projects/geigerlog/ . The latest pre-release can be found here: https://sourceforge.net/p/geigerlog/discussion/devel2/
-Latest version as of now is: GeigerLog Version 2.2pre01
+Latest version as of now is: **GeigerLog Version 2.2pre05**
 
 Note: while Tasmota can even be used on a ESP8266, this old device CANNOT be used for the Tasmota-Geiger-Counter!
